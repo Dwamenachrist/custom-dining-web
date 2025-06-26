@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://customdining.ng/sitemap.xml
+Sitemap: https://custom-dining-web.vercel.app/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 1 

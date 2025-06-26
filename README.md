@@ -33,43 +33,8 @@ A modern, responsive landing page for the Custom Dining mobile app - helping Nig
    ```
 
 3. **Open in browser**:
-   Visit `http://localhost:8000`
+   Visit `https://custom-dining-web.vercel.app/`
 
-### Testing with ngrok
-
-1. **Install ngrok** (if not already installed):
-   ```bash
-   # Download from https://ngrok.com/download
-   # Or install via package manager
-   ```
-
-2. **Start local server** (in one terminal):
-   ```bash
-   python -m http.server 8000
-   ```
-
-3. **Create ngrok tunnel** (in another terminal):
-   ```bash
-   ngrok http 8000
-   ```
-
-4. **Use the provided ngrok URL** for testing and sharing
-
-## 🌐 Deployment Options
-
-### Vercel (Recommended)
-1. Install Vercel CLI: `npm i -g vercel`
-2. Run: `vercel --prod`
-3. Follow the prompts
-
-### Netlify
-1. Drag and drop the project folder to [netlify.com/drop](https://app.netlify.com/drop)
-2. Or connect your Git repository
-
-### GitHub Pages
-1. Push to GitHub repository
-2. Enable GitHub Pages in repository settings
-3. Set source to main branch
 
 ## 📊 Google Search Console Setup
 
