@@ -1,0 +1,26 @@
+{
+  "name": "custom-dining-website",
+  "version": "1.0.0",
+  "description": "Custom Dining - Landing page for the mobile app helping Nigerians with dietary restrictions find suitable meals",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "custom dining",
+    "diabetic meals",
+    "healthy food Nigeria",
+    "dietary restrictions",
+    "meal planning",
+    "restaurant discovery"
+  ],
+  "author": "Custom Dining Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/custom-dining-website.git"
+  },
+  "homepage": "https://customdining.ng"
+} 
