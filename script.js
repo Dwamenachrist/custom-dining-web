@@ -95,7 +95,7 @@ document.querySelectorAll('.btn').forEach(btn => {
             
             if (isAndroid) {
                 // Open the APK link in a new tab
-                window.open('https://drive.google.com/file/d/1HI96KqzoFmdtI8UGSm-nVMiVEJMPONgh/view?usp=sharing', '_blank');
+                window.open('https://docs.google.com/uc?export=download&id=1HI96KqzoFmdtI8UGSm-nVMiVEJMPONgh', '_blank');
             } else if (isIOS) {
                 // Replace with actual App Store link
                 alert('iOS app will be available soon! Check back later.');
