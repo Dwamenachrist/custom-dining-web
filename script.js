@@ -94,9 +94,8 @@ document.querySelectorAll('.btn').forEach(btn => {
             const isIOS = btn.textContent.toLowerCase().includes('ios');
             
             if (isAndroid) {
-                // Replace with actual Play Store link
-                alert('Android app will be available soon! Check back later.');
-                // window.open('https://play.google.com/store/apps/details?id=your.app.id', '_blank');
+                // Open the APK link in a new tab
+                window.open('https://drive.google.com/file/d/1HI96KqzoFmdtI8UGSm-nVMiVEJMPONgh/view?usp=sharing', '_blank');
             } else if (isIOS) {
                 // Replace with actual App Store link
                 alert('iOS app will be available soon! Check back later.');
